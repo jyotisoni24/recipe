@@ -1,0 +1,46 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(245, 200, 132);
+ 
+}
+img{
+    width: 400px;
+}
+.Everything{
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 200px;
+    background-color: white;
+    padding: 30px 20px 30px ;
+    padding-bottom: 40px;
+    border-radius: 20px;
+}
+.prepare{
+    background-color: rgba(252, 131, 201, 0.308);
+    padding: 5px;
+    border-radius: 10px;
+}
+h1{
+    font-family: 'Vollkorn', serif; 
+}
+h2{
+    color: rgb(119, 11, 7);
+    font-family: 'Vollkorn', serif;
+}
+.heading{
+    font-weight: bolder;
+}
+h3{
+   color: rgb(158, 47, 65);
+}
+.prep{
+    font-weight: 900;
+}
+.no{
+    color: rgb(119, 11, 7);
+    font-weight: bolder;
+    }
+li::marker{font-weight: bold; color: rgb(119, 11, 7);}
+
