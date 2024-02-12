@@ -43,4 +43,9 @@ h3{
     font-weight: bolder;
     }
 li::marker{font-weight: bold; color: rgb(119, 11, 7);}
-
+th, td {
+    border-bottom: 1px solid #ddd;
+  }
+  table{
+    width: 100%;
+  }
