@@ -4,11 +4,11 @@ body{
  
 }
 img{
-    width: 400px;
+    width: 700px;
 }
 .Everything{
     display: block;
-    width: 400px;
+    width: 700px;
     margin-left: auto;
     margin-right: auto;
     border: 200px;
@@ -43,8 +43,10 @@ h3{
     font-weight: bolder;
     }
 li::marker{font-weight: bold; color: rgb(119, 11, 7);}
-th, td {
+ td,th {
     border-bottom: 1px solid #ddd;
+     
+    height: 30px;
   }
   table{
     width: 100%;
